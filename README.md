@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ed081630-1e65-414b-8566-2087816dd5fb" /><h1 align="center">Hi 👋, I'm Prasenjeet Sonawane</h1>
+<h1 align="center">Hi 👋, I'm Prasenjeet Sonawane</h1>
 <h3 align="center">A passionate Unity 3D Developer</h3>
 
 🚀 Computer Engineering graduate from PICT, Pune, with strong hands-on experience in Unity 3D, AR/VR, and immersive game development. Currently working at C-DAC Mumbai on interactive and educational VR experiences under the OLab project.Skilled in building AR/VR applications using Unity, XR Interaction Toolkit, WebGL, and VR development for Oculus Quest 2 & 3. I focus on creating smooth, engaging, and user-friendly 3D experiences. Passionate about UI/UX design and game interfaces. I enjoy combining clean design with intuitive interactions to deliver meaningful digital experiences, especially in education.
